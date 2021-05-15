@@ -1,0 +1,2 @@
+# javascript-exercises
+ Learning JavaScript
